@@ -18,6 +18,56 @@
 *.zip
 *.tar.gz
 *.rar
+*.db
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+######################
+# Windows
+######################
+ 
+# Windows image file caches
+Thumbs.db 
+ 
+# Folder config file
+Desktop.ini
+ 
+######################
+# OSX
+######################
+.DS_Store
+.svn
+
+ 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# NetBeans
+######################
+/nbproject/private/
+/build/
+/dist/
+Moodui/nbproject/private
+Moodui/nbproject/ant-deploy.xml
+Moodui/nbproject/build-impl.xml
+Moodui/nbproject/genfiles.properties
+Moodui/nbproject/rest-build.xml
+Moodui/build/
+Moodui/nbbuild/
+Moodui/dist/
+Moodui/nbdist/
+Moodui/nbactions.xml
+Moodui/nb-configuration.xml
+Moodui/build.xml
+
+######################
+# Liberty tools
+######################
+
+.factorypath
+
+#diff version of mysql for server
+Moodui/setup/glassfish-resources.xml
