@@ -62,7 +62,12 @@ Moodui/nbdist/
 Moodui/nbactions.xml
 Moodui/nb-configuration.xml
 Moodui/build.xml
-
+Moodui/Moodui-ejb/build
+Moodui/Moodui-ejb/nbproject
+Moodui/Moodui-ejb/dist
+Moodui/Moodui-war/build
+Moodui/Moodui-war/nbproject
+Moodui/Moodui-war/dist
 ######################
 # Liberty tools
 ######################
